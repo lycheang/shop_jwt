@@ -60,3 +60,30 @@ Product *--1 Category (Many products belong to one category)
 Product 1--* Image (One product has many images)
 
 User *--* Role (Users can be both Admin and User)
+
+🛠️ Tech Stack Summary
+
+Component,Technology,Purpose
+
+
+Language,Java 21+,Core logic
+
+
+Framework,Spring Boot 3.3,Backend framework
+
+
+Database,MySQL 8.0,Persistent storage
+
+
+ORM,Hibernate / JPA,Database interaction
+
+
+Security,Spring Security 6,Auth & Authorization
+
+
+API Docs,Swagger UI / OpenAPI,Interactive API documentation
+
+
+Ops,Docker,Deployment & Environment consistency
+
+
